@@ -1,3 +1,0 @@
-<manifest package="net.kdt.pojavlaunch.renegados" xmlns:android="http://schemas.android.com/apk/res/android">
-    <application android:label="Renegados Launcher" android:icon="@mipmap/ic_launcher"/>
-</manifest>
